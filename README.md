@@ -25,6 +25,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Screenshots
 1. Submit PFB 
 <img width="618" alt="image" src="https://github.com/ensdaddy/pfb/assets/57781599/c552bf9c-0606-4d80-a700-905339aabff0">
+
 2. Result
 <img width="618" alt="image" src="https://github.com/ensdaddy/pfb/assets/57781599/ad90f64e-31f1-440e-b219-c6926a3dc578">
 
